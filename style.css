@@ -1,0 +1,55 @@
+body { background: grey;
+    margin: 0;
+ }
+ 
+
+ .copyright-date {font-weight: bold;
+ 		color: red;}
+
+
+.begroeting {background-color: black;
+color: white;
+padding:  10px 0;
+margin-bottom: 15px;}
+.container {    max-width: 800px;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 10px;
+    }
+
+.content {background: white;
+padding: 10px;}
+
+
+.menu {float: right;
+margin-top: 13px;}
+.begroetinglinks {float: left;}
+
+.menu a {color:  lightyellow;
+text-decoration: none;
+border: 1px solid lightyellow;
+padding: 2px;
+margin-right: 5px;}
+
+
+.edit {color:  lightyellow;
+    background-color: #42f590;
+    text-decoration: none;
+border:  2px solid lightyellow;
+padding:  6px;}
+
+.remove {color:  lightyellow;
+    background-color: #f25c2e;
+text-decoration: none;
+border:  2px solid lightyellow;
+padding:  6px;}
+
+.scores {background: lightgrey;
+padding: 5px 10px;}
+
+.scores span {background: #4679e0;
+color: yellow;
+padding: 5px 10px;
+border-radius: 50%;}
+
+footer {text-align: center;}
